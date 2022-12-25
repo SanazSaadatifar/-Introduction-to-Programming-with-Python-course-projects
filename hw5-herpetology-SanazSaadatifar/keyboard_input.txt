@@ -1,0 +1,22 @@
+3
+croc
+y
+caiman
+y
+chihuahua
+y
+chihuahuan greater
+n
+
+add input keys are bellow:
+
+2
+fitchi
+y
+snake
+y
+eastern smooth earthsnake
+y
+common gartersnake
+n
+
